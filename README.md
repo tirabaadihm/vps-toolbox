@@ -32,4 +32,4 @@
 ### 1️⃣ دانلود مستقیم از GitHub و اجرا:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/<username>/<repo>/main/vps_toolbox_vpn_installer.sh)
+bash <(curl -fsSL [https://github.com/tirabaadihm/vps-toolbox/releases/download/1.2/vps_toolbox.sh]
