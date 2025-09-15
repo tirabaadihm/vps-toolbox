@@ -1,5 +1,5 @@
 # vps-toolbox
-# VPS Toolbox Manager v1.2
+# VPS Toolbox Manager v1.3
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
