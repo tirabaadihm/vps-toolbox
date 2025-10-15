@@ -32,4 +32,4 @@
 ### 1️⃣ دانلود مستقیم از GitHub و اجرا:
 
 ```bash
-bash <(curl -fsSL https://github.com/tirabaadihm/vps-toolbox/releases/download/1.3/vps_toolbox.sh)
+bash <(curl -fsSL https://github.com/tirabaadihm/vps-toolbox/releases/download/1.1/server-manager-v1.1.sh)
